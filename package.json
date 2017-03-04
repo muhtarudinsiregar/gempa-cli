@@ -1,6 +1,6 @@
 {
   "name": "gempa-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get latest earthquake info from bmkg in your cli",
   "main": "index.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "mocha": "^3.2.0"
   },
   "bin": {
-    "holidays-cli": "./index.js"
+    "gempa-cli": "./index.js"
   },
   "dependencies": {
     "axios": "^0.15.3",

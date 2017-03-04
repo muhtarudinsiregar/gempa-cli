@@ -3,10 +3,13 @@
 Get latest earthquake info from your cli
 
 ```
-npm -g gempa-cli
+npm i -g gempa-cli
+
 gempa-cli
 ```
 
+### Roadmap
+* [ ] Add Test
 
 ### Datasource
 
